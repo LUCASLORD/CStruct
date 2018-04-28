@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 int menorB(int a[3][3], int b)
 
 {
