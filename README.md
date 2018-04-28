@@ -11,4 +11,7 @@
 - Crie um procedimento que permita a impressão na tela dos dados dos alunos lidos;
 - Crie um procedimento que imprima o nome dos alunos aprovados no curso. Considere aprovado o aluno com nota final maior ou igual à 60.
 - Crie um procedimento que imprima o nome do aluno que alcançou a maior média da turma;
-- Através da função principal, faça uso dos procedimentos criados nos itens acima; 
+- Através da função principal, faça uso dos procedimentos criados nos itens acima;
+
+### Ex - 3
+<p>Fazer um programa que recebe uma matriz A(3)(3) de números inteiros e 2 números inteiros B e C. O programa deverá retornar a quantidade de valores da matriz que são menores que B e a quantidade de valores da matriz que são maiores que C. Obrigatório o uso de função/procedimento/subrotina.</p> 
